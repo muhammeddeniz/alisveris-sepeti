@@ -17,6 +17,16 @@
   </p>
 </p>
 
+</br>
+</br></br>
+
+
+## Geliştirme 
+
+```js
+yarn
+yarn start
+```
 
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
