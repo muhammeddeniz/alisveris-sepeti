@@ -19,3 +19,5 @@
 
 
 
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-url]: https://github.com/muhammeddeniz/alisveris-sepeti/master/LICENSE.txt
