@@ -17,23 +17,27 @@ header {
       font-size: 20px;
       line-height: 24px; }
 
-.footerd {
-  background-color: #ccc;
-  width: 100%;
-  height: 15px;
-  text-align: center; }
-  .footerd h1 {
-    color: red;
-    font-size-adjust: 14px; }
 
 .btn-primary {
   background-color: red; }
 
 .btn-secondary {
-  background-color: green; }
+  background-color: #17b978;
+  border: 0px;
+  border-radius: 5px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 18px;
+  color: #fff;
+  padding: 6px 15px 6px;
+  margin: 10px 0 10px 20px;
+  cursor: pointer; }
 
 .btn-outline {
   background-color: hotpink; }
+
 
 
 

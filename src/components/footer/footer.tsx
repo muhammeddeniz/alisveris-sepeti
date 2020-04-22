@@ -7,11 +7,7 @@ interface IProps {
 }
 
 const Footer: React.FC<IProps> = ({ store }) => {
-  return (
-    <div className="footerd">
-      <p>footer</p>
-    </div>
-  );
+  return <div className="footer"></div>;
 };
 
 export default Footer;

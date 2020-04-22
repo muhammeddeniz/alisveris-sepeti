@@ -1,6 +1,8 @@
 import React from "react";
+import Link from "next/link";
 
 import "./header.scss";
+import { Button } from "../index";
 
 interface IProps {
   store?: any;
@@ -14,10 +16,24 @@ const Header: React.FC<IProps> = ({ store }) => {
       </div>
 
       <nav>
-        <a href="">Ana Sayfa</a>
-        <a href="">En Çok Satanlar</a>
-        <a href="">En Beğenilenler</a>
+        <Link href="/index">
+          <a>Ana Sayfa</a>
+        </Link>
+
+        <Link href="bestSellerPage">
+          <a>En Çok Satanlar</a>
+        </Link>
+
+        <Link href="bestLiked">
+          <a>En Beğenilenler</a>
+        </Link>
       </nav>
+
+      <Link href="newProduct">
+        <a>
+          <Button secondary>Yeni Ürün Ekle</Button>
+        </a>
+      </Link>
     </header>
   );
 };
