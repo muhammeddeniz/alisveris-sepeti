@@ -1,1 +1,0 @@
-{"ast":null,"code":"export { default as Header } from \"./header\";","map":{"version":3,"sources":["C:/Users/muham/Desktop/alisveris-sepeti/src/components/header/index.ts"],"names":["default","Header"],"mappings":"AAAA,SAASA,OAAO,IAAIC,MAApB,QAAkC,UAAlC","sourcesContent":["export { default as Header } from \"./header\";\r\n"]},"metadata":{},"sourceType":"module"}

@@ -1,1 +1,0 @@
-{"ast":null,"code":"export { default as Input } from \"./input\";","map":{"version":3,"sources":["C:/Users/muham/Desktop/react-sterterkit/src/components/input/index.ts"],"names":["default","Input"],"mappings":"AAAA,SAASA,OAAO,IAAIC,KAApB,QAAiC,SAAjC","sourcesContent":["export { default as Input } from \"./input\";\r\n"]},"metadata":{},"sourceType":"module"}
